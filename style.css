@@ -1,3 +1,6 @@
+:root{
+    --branco: white;
+}
 body{
     color: white;
     background-color: #1d1b97;
